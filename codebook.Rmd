@@ -1,0 +1,148 @@
+---
+title: "Code Book"
+---
+## my_data
+
+### subject
+
+### activity
+  
+-1: WALKING
+
+-2: WALKING_UPSTAIRS
+
+-3: WALKING_DOWNSTAIRS
+
+-4: SITTING
+
+-5: STANDING
+
+-6: LAYING
+
+ 
+### tBodyAcc.mean...X,tBodyAcc.mean...Y ,tBodyAcc.mean...Z 
+Mean Body acceleration signals XYZ axis
+
+### tGravityAcc.mean...X,tGravityAcc.mean...Y,tGravityAcc.mean...Z
+Mean Gravity acceleration signals XYZ axis
+
+### tBodyAccJerk.mean...X,tBodyAccJerk.mean...Y,tBodyAccJerk.mean...Z
+Mean jerk signals XYZ
+
+### tBodyGyro.mean...X,tBodyGyro.mean...Y,tBodyGyro.mean...Z
+Mean Body Gyroscope signals XYZ axis 
+
+### tBodyGyroJerk.mean...X,tBodyGyroJerk.mean...Y,tBodyGyroJerk.mean...Z
+ Mean jerk Gyroscope signals XYZ axis
+  
+### tBodyAccMag.mean..
+ Mean body acceleration magnitude 
+
+### tGravityAccMag.mean..
+ Mean gravity acceleration magnitude
+
+
+### tBodyAccJerkMag.mean.. 
+Mean body jerk magnitude
+
+### tBodyGyroMag.mean..
+Mean gyroscope magnitude 
+
+### tBodyGyroJerkMag.mean..
+Mean gyroscope jerk magnitude
+
+### fBodyAcc.mean...X,fBodyAcc.mean...Y,fBodyAcc.mean...Z
+Mean frequency Body acceleration signals XYZ axis
+ 
+### fBodyAcc.meanFreq...X, fBodyAcc.meanFreq...Y,fBodyAcc.meanFreq...Z
+Mean frequency Body acceleration signals XYZ axis
+  
+### fBodyAccJerk.mean...X,fBodyAccJerk.mean...Y,fBodyAccJerk.mean...Z
+Mean  frequency jerk signals XYZ
+ 
+### fBodyAccJerk.meanFreq...X, fBodyAccJerk.meanFreq...Y, fBodyAccJerk.meanFreq...Z 
+Mean  frequency jerk signals XYZ
+
+### fBodyGyro.mean...X , fBodyGyro.mean...Y, fBodyGyro.mean...Z
+Mean frequency Body Gyroscope signals XYZ axis 
+
+### fBodyGyro.meanFreq...X , fBodyGyro.meanFreq...Y , fBodyGyro.meanFreq...Z  
+Mean frequency Body Gyroscope signals XYZ axis
+
+### fBodyAccMag.mean.. 
+Mean frequency body acceleration magnitude
+
+### fBodyAccMag.meanFreq..
+Mean freguency body acceleration magnitude 
+
+### fBodyBodyAccJerkMag.mean..
+Mean frequency body jerk magnitude
+
+### fBodyBodyAccJerkMag.meanFreq.. 
+Mean frequency body jerk magnitude
+
+### fBodyBodyGyroMag.mean..
+Mean frequency gyroscope magnitude 
+
+### fBodyBodyGyroMag.meanFreq..
+Mean frequency gyroscope magnitude 
+
+### fBodyBodyGyroJerkMag.mean..
+Mean frequency gyroscope jerk magnitude
+
+### fBodyBodyGyroJerkMag.meanFreq..
+Mean frequency  gyroscope jerk magnitude 
+
+### tBodyAcc.std...X , tBodyAcc.std...Y, tBodyAcc.std...Z 
+standard deviation Body acceleration signals XYZ axis 
+
+### tGravityAcc.std...X , tGravityAcc.std...Y , tGravityAcc.std...Z  
+standard deviation Gravity acceleration signals XYZ axis
+
+### tBodyAccJerk.std...X , tBodyAccJerk.std...Y  ,tBodyAccJerk.std...Z
+standard deviation jerk signals XYZ 
+
+### tBodyGyro.std...X, tBodyGyro.std...Y , tBodyGyro.std...Z  
+standard deviation Body Gyroscope signals XYZ axis
+
+### tBodyGyroJerk.std...X , tBodyGyroJerk.std...Y , tBodyGyroJerk.std...Z 
+standard deviation jerk Gyroscope signals XYZ axis
+
+### tBodyAccMag.std..
+standard deviation body acceleration magnitude 
+
+### tGravityAccMag.std..
+standard deviation gravity acceleration magnitude
+
+### tBodyAccJerkMag.std.. 
+standard deviation body jerk magnitude
+
+
+### tBodyGyroMag.std.. 
+standard deviation gyroscope magnitude
+
+### tBodyGyroJerkMag.std..
+standard deviation gyroscope jerk magnitude
+
+### fBodyAcc.std...X , fBodyAcc.std...Y , fBodyAcc.std...Z  
+Standard deviation frequency Body acceleration signals XYZ axis
+
+### fBodyAccJerk.std...X , fBodyAccJerk.std...Y , fBodyAccJerk.std...Z  
+Standard deviation  frequency jerk signals XYZ	
+
+### fBodyGyro.std...X , fBodyGyro.std...Y , fBodyGyro.std...Z  
+Standard deviationfrequency Body Gyroscope signals XYZ axis  
+
+### fBodyAccMag.std.. 
+Standard deviation frequency body acceleration magnitude
+
+### fBodyBodyAccJerkMag.std.. 
+Standard deviationfrequency body jerk magnitude
+
+### fBodyBodyGyroMag.std..
+Standard deviation frequency gyroscope magnitude 
+
+### fBodyBodyGyroJerkMag.std..
+ Standard deviation frequency  gyroscope jerk magnitude
+
+
